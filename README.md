@@ -1,6 +1,8 @@
 ### Hi there 👋
 백엔드 개발자 마르코입니다.
 
+A natural-born problem solver.
+I can do this all day :)
 
 #### Languages
 <div> 
