@@ -33,7 +33,6 @@ I can do this all day :)
 <br />
 <br />
 
-[![SongMarco's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=songmarco&theme=cobalt)](https://github.com/songmarco/github-readme-stats)
 
 
 
